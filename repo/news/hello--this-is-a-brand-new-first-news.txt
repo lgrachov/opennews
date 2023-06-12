@@ -1,0 +1,9 @@
+Hello everyone!
+
+I'm glad you are here, because this is the repository filled with thousands of news.
+
+I'm going to launch this project.
+
+Happy new news service!
+
+- Leo Grachov: The team organisator
